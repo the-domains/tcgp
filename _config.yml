@@ -1,0 +1,28 @@
+name: tcgp
+favicon: null
+layout_spectrum: 0.854308607056737
+typography_spectrum: 0.7714960677549243
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.572185633238405
+  lightness: 0.5519311761017889
+  saturation: 0.4971134702209383
+  rhythmicContrast: 0.6773643007036299
+purpose: []
